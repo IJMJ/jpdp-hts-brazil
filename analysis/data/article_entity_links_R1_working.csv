@@ -1,0 +1,140 @@
+article_id,entity_id,role,doi
+ART-0026,ENT-0038,original primary contribution,10.1016/j.virusres.2017.08.007
+ART-0027,ENT-0005,original primary contribution,10.1007/s00705-017-3326-0
+ART-0028,ENT-0016,original primary contribution,10.1094/phyto-02-17-0042-r
+ART-0029,ENT-0020,original primary contribution,10.1007/s00705-016-3104-4
+ART-0030,ENT-0025,original primary contribution,10.1007/s00705-017-3532-9
+ART-0031,ENT-0015,original primary contribution,10.3390/v9040092
+ART-0031,ENT-0017,original primary contribution,10.3390/v9040092
+ART-0032,ENT-0022,original primary contribution,10.1007/s11262-017-1470-y
+ART-0058,ENT-0047,original primary contribution,10.1007/s00705-017-3425-y
+ART-0058,ENT-0048,original primary contribution,10.1007/s00705-017-3425-y
+ART-0024,ENT-0004,original primary contribution,10.1007/s00705-018-3863-1
+ART-0025,ENT-0023,original primary contribution,10.1186/s12985-018-1095-3
+ART-0055,ENT-0066,original primary contribution,10.1007/s00705-017-3571-2
+ART-0056,ENT-0076,original primary contribution,10.1128/genomea.00427-18
+ART-0057,ENT-0056,original primary contribution,10.1094/pdis-04-18-0694-pdn
+ART-0019,ENT-0021,original primary contribution,10.7717/peerj.6285
+ART-0020,ENT-0040,original primary contribution,10.1007/s00705-019-04380-0
+ART-0021,ENT-0006,original primary contribution,10.3390/v11010090
+ART-0022,ENT-0029,original primary contribution,10.1094/pdis-03-19-0561-pdn
+ART-0023,ENT-0019,original primary contribution,10.1007/s00705-019-04254-5
+ART-0052,ENT-0072,original primary contribution,10.1007/s00705-019-04281-2
+ART-0053,ENT-0058,original primary contribution,10.1007/s00705-018-4024-2
+ART-0054,ENT-0074,original primary contribution,10.1094/pdis-09-18-1636-pdn
+ART-0045,ENT-0065,original primary contribution,10.1094/pdis-08-19-1789-pdn
+ART-0046,ENT-0075,original primary contribution,10.1094/pdis-07-19-1490-pdn
+ART-0047,ENT-0044,original primary contribution,10.1094/pdis-02-20-0283-pdn
+ART-0047,ENT-0045,original primary contribution,10.1094/pdis-02-20-0283-pdn
+ART-0047,ENT-0053,original primary contribution,10.1094/pdis-02-20-0283-pdn
+ART-0049,ENT-0046,original primary contribution,10.1094/pdis-12-19-2669-pdn
+ART-0050,ENT-0063,original primary contribution,10.3390/v12090950
+ART-0050,ENT-0064,original primary contribution,10.3390/v12090950
+ART-0051,ENT-0068,original primary contribution,10.3390/plants9101272
+ART-0015,ENT-0012,original primary contribution,10.1007/s00705-021-05172-1
+ART-0016,ENT-0041,original primary contribution,10.1007/s00705-021-05220-w
+ART-0018,ENT-0036,original primary contribution,10.1016/j.virusres.2020.198257
+ART-0018,ENT-0037,original primary contribution,10.1016/j.virusres.2020.198257
+ART-0044,ENT-0050,original primary contribution,10.1007/s00705-021-05063-5
+ART-0044,ENT-0051,original primary contribution,10.1007/s00705-021-05063-5
+ART-0012,ENT-0043,original primary contribution,10.1007/s00705-022-05361-6
+ART-0013,ENT-0024,original primary contribution,10.1007/s00705-022-05410-0
+ART-0014,ENT-0009,original primary contribution,10.3389/fmicb.2022.874319
+ART-0014,ENT-0010,original primary contribution,10.3389/fmicb.2022.874319
+ART-0043,ENT-0078,original primary contribution,10.1007/s11262-022-01903-x
+ART-0009,ENT-0001,original primary contribution,10.4149/av_2023_111
+ART-0010,ENT-0014,original primary contribution,10.3390/plants12061371
+ART-0011,ENT-0039,original primary contribution,10.1007/s00705-023-05836-0
+ART-0011,ENT-0042,original primary contribution,10.1007/s00705-023-05836-0
+ART-0039,ENT-0052,original primary contribution,
+ART-0040,ENT-0057,original primary contribution,10.3390/v15020410
+ART-0041,ENT-0061,original primary contribution,10.3389/fpls.2023.1202139
+ART-0042,ENT-0069,original primary contribution,10.1007/s00705-023-05892-6
+ART-0042,ENT-0073,original primary contribution,10.1007/s00705-023-05892-6
+ART-0006,ENT-0002,original primary contribution,10.1007/s00705-024-06180-7
+ART-0008,ENT-0003,original primary contribution,10.3390/v16030322
+ART-0008,ENT-0059,original primary contribution,10.3390/v16030322
+ART-0037,ENT-0067,original primary contribution,
+ART-0038,ENT-0055,original primary contribution,
+ART-0003,ENT-0011,original primary contribution,10.1007/s00705-025-06463-7
+ART-0004,ENT-0026,original primary contribution,10.3390/v17050725
+ART-0004,ENT-0027,original primary contribution,10.3390/v17050725
+ART-0004,ENT-0028,original primary contribution,10.3390/v17050725
+ART-0001,ENT-0018,original primary contribution,10.1007/s00705-026-06609-1
+ART-0002,ENT-0007,original primary contribution,10.1099/jgv.0.002188
+ART-R1-001,ENT-R1-001,eligible 2020 contribution,10.3390/v12080819
+ART-R1-001,ENT-R1-002,eligible 2020 contribution,10.3390/v12080819
+ART-R1-001,ENT-R1-003,eligible 2020 contribution,10.3390/v12080819
+ART-R1-001,ENT-R1-004,eligible 2020 contribution,10.3390/v12080819
+ART-R1-001,ENT-R1-005,eligible 2020 contribution,10.3390/v12080819
+ART-R1-001,ENT-R1-006,eligible 2020 contribution,10.3390/v12080819
+ART-R1-001,ENT-0054,eligible 2020 contribution,10.3390/v12080819
+ART-R1-001,ENT-0039,"earlier report; same accession, no new entity",10.3390/v12080819
+ART-R1-001,ENT-0042,"earlier report; same accession, no new entity",10.3390/v12080819
+ART-R1-002,ENT-R1-004,"additional independent field associations; same MG-016 accessions, no duplicate entity",10.1094/PDIS-04-20-0768-PDN
+ART-R1-003,ENT-R1-002,genome and putative recombination characterization; same MT214094 and source plants,10.1007/s42161-022-01151-w
+ART-R1-004,ENT-R1-005,genome and putative recombination characterization; same MG-150 accessions; explicit raw-read link,10.1007/s42161-025-01864-8
+ART-0033,ENT-0054,same MT214093; six individual PCR-positive samples; no duplicate entity,10.1007/s00705-025-06293-7
+ART-0017,SISAL-01,historical Pending record restored under submitted scope,10.3390/microorganisms9081704
+ART-0017,SISAL-02,historical Pending record restored under submitted scope,10.3390/microorganisms9081704
+ART-0017,SISAL-03,historical Pending record restored under submitted scope,10.3390/microorganisms9081704
+ART-0017,SISAL-04,historical Pending record restored under submitted scope,10.3390/microorganisms9081704
+ART-0017,SISAL-05,historical Pending record restored under submitted scope,10.3390/microorganisms9081704
+ART-0017,SISAL-06,historical Pending record restored under submitted scope,10.3390/microorganisms9081704
+ART-0017,SISAL-07,historical Pending record restored under submitted scope,10.3390/microorganisms9081704
+ART-0017,SISAL-08,historical Pending record restored under submitted scope,10.3390/microorganisms9081704
+ART-0017,SISAL-09,historical Pending record restored under submitted scope,10.3390/microorganisms9081704
+ART-0017,SISAL-10,historical Pending record restored under submitted scope,10.3390/microorganisms9081704
+ART-0017,SISAL-11,historical Pending record restored under submitted scope,10.3390/microorganisms9081704
+ART-0017,SISAL-12,historical Pending record restored under submitted scope,10.3390/microorganisms9081704
+ART-0017,SISAL-13,historical Pending record restored under submitted scope,10.3390/microorganisms9081704
+ART-0017,SISAL-14,historical Pending record restored under submitted scope,10.3390/microorganisms9081704
+ART-0017,SISAL-15,historical Pending record restored under submitted scope,10.3390/microorganisms9081704
+ART-0017,SISAL-16,historical Pending record restored under submitted scope,10.3390/microorganisms9081704
+ART-0017,SISAL-17,historical Pending record restored under submitted scope,10.3390/microorganisms9081704
+ART-0017,SISAL-18,historical Pending record restored under submitted scope,10.3390/microorganisms9081704
+ART-0017,SISAL-19,historical Pending record restored under submitted scope,10.3390/microorganisms9081704
+ART-0017,SISAL-20,historical Pending record restored under submitted scope,10.3390/microorganisms9081704
+ART-0017,SISAL-21,historical Pending record restored under submitted scope,10.3390/microorganisms9081704
+ART-0017,SISAL-22,historical Pending record restored under submitted scope,10.3390/microorganisms9081704
+ART-0017,SISAL-23,historical Pending record restored under submitted scope,10.3390/microorganisms9081704
+ART-0017,SISAL-24,historical Pending record restored under submitted scope,10.3390/microorganisms9081704
+ART-0017,SISAL-25,historical Pending record restored under submitted scope,10.3390/microorganisms9081704
+ART-0014,ENT-0008,historical Pending record restored under submitted scope,10.3389/fmicb.2022.874319
+ART-0005,ENT-0013,historical Pending record restored under submitted scope,10.1186/s12870-025-07472-z
+ART-0042,ENT-0060,historical Pending record restored under submitted scope,10.1007/s00705-023-05892-6
+ART-0035,ENT-0062,historical Pending record restored under submitted scope,10.3390/v17111428
+ART-0048,ENT-0077,historical Pending record restored under submitted scope,10.1094/PDIS-07-19-1389-PDN
+ART-0007,ENT-0030,historical Pending record restored under submitted scope,10.3390/v16060899
+ART-0007,ENT-0031,historical Pending record restored under submitted scope,10.3390/v16060899
+ART-0007,ENT-0032,historical Pending record restored under submitted scope,10.3390/v16060899
+ART-0007,ENT-0033,historical Pending record restored under submitted scope,10.3390/v16060899
+ART-0007,ENT-0034,historical Pending record restored under submitted scope,10.3390/v16060899
+ART-0007,ENT-R1-007,Known-virus/subviral genome characterization or explicit host/geographic contribution,10.3390/v16060899
+ART-0007,ENT-R1-008,Known-virus/subviral genome characterization or explicit host/geographic contribution,10.3390/v16060899
+ART-0007,ENT-R1-009,Known-virus/subviral genome characterization or explicit host/geographic contribution,10.3390/v16060899
+ART-0007,ENT-R1-010,Known-virus/subviral genome characterization or explicit host/geographic contribution,10.3390/v16060899
+ART-0007,ENT-R1-011,Known-virus/subviral genome characterization or explicit host/geographic contribution,10.3390/v16060899
+ART-0007,ENT-R1-012,Known-virus/subviral genome characterization or explicit host/geographic contribution,10.3390/v16060899
+ART-0007,ENT-R1-013,Known-virus/subviral genome characterization or explicit host/geographic contribution,10.3390/v16060899
+ART-0007,ENT-R1-014,Known-virus/subviral genome characterization or explicit host/geographic contribution,10.3390/v16060899
+ART-0007,ENT-R1-015,Known-virus/subviral genome characterization or explicit host/geographic contribution,10.3390/v16060899
+ART-0007,ENT-R1-016,Known-virus/subviral genome characterization or explicit host/geographic contribution,10.3390/v16060899
+ART-0007,ENT-R1-017,Known-virus/subviral genome characterization or explicit host/geographic contribution,10.3390/v16060899
+ART-0007,ENT-R1-018,Known-virus/subviral genome characterization or explicit host/geographic contribution,10.3390/v16060899
+ART-0007,ENT-R1-019,Known-virus/subviral genome characterization or explicit host/geographic contribution,10.3390/v16060899
+ART-0007,ENT-R1-020,Known-virus/subviral genome characterization or explicit host/geographic contribution,10.3390/v16060899
+ART-0007,ENT-R1-021,Known-virus/subviral genome characterization or explicit host/geographic contribution,10.3390/v16060899
+ART-0007,ENT-R1-022,Known-virus/subviral genome characterization or explicit host/geographic contribution,10.3390/v16060899
+ART-0007,ENT-R1-023,Known-virus/subviral genome characterization or explicit host/geographic contribution,10.3390/v16060899
+ART-0007,ENT-R1-024,Known-virus/subviral genome characterization or explicit host/geographic contribution,10.3390/v16060899
+ART-0007,ENT-0054,Additional attributed evidence; samples/accessions not pooled across articles,10.3390/v16060899
+ART-0007,ENT-R1-004,Additional attributed evidence; samples/accessions not pooled across articles,10.3390/v16060899
+ART-0007,ENT-0074,Additional attributed evidence; samples/accessions not pooled across articles,10.3390/v16060899
+ART-0007,ENT-0042,Additional attributed evidence; samples/accessions not pooled across articles,10.3390/v16060899
+ART-0034,ENT-0071,Source-adjudicated historical-scope contribution,10.1111/jph.70063
+ART-0014,ENT-R1-025,Source-adjudicated historical-scope contribution,10.3389/fmicb.2022.874319
+ART-0036,ENT-0070,Novel mitovirus-like taxon characterized from Brazilian plant material,10.1007/s00705-024-06115-2
+ART-R1-H086,ENT-R1-026,"Source-adjudicated Brazilian HTS contribution; distinct contribution unit, no multiplication by hosts/components/time points",10.1128/jvi.02793-15
+ART-R1-H124,ENT-R1-027,"Source-adjudicated Brazilian HTS contribution; distinct contribution unit, no multiplication by hosts/components/time points",10.1016/j.virusres.2020.198234
+ART-R1-H127,ENT-R1-028,"Source-adjudicated Brazilian HTS contribution; distinct contribution unit, no multiplication by hosts/components/time points",10.1016/j.virusres.2020.198112

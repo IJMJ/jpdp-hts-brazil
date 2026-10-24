@@ -1,0 +1,91 @@
+{
+  "status": "PASS",
+  "snapshot": "2026-10-24",
+  "scope": "R1 calculation snapshot; source eligibility qualifications retained; independent author review not asserted.",
+  "analysis": {
+    "status": "PASS",
+    "exact_match_to_checked_reference": true,
+    "articles": 65,
+    "entities": 129,
+    "article_entity_links": 139,
+    "dimensions": 6,
+    "composite_scores": 3,
+    "permutations_per_score": 100000,
+    "seeds": [
+      20260807,
+      20260808,
+      20260809
+    ],
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "working_snapshot_not_final_corpus": true
+  },
+  "prioritization": {
+    "status": "PASS",
+    "mode": "dictionary_presence_replay",
+    "records": 8968,
+    "compared_fields": 25,
+    "different_cells": 0,
+    "advanced_to_human_screening": 85,
+    "not_advanced": 8883,
+    "class_label_counts": [
+      {
+        "class": "A",
+        "label": "High priority",
+        "records": 15
+      },
+      {
+        "class": "B",
+        "label": "Possible candidate",
+        "records": 19
+      },
+      {
+        "class": "C",
+        "label": "Manual review",
+        "records": 51
+      },
+      {
+        "class": "C",
+        "label": "Supporting/manual review",
+        "records": 1724
+      },
+      {
+        "class": "D",
+        "label": "Probable irrelevant",
+        "records": 7159
+      }
+    ],
+    "python": "3.12.14",
+    "pandas": "2.2.3",
+    "scope": "Feature replay checks scoring and classification; omitted source-text extraction and screening sensitivity are not independently validated."
+  },
+  "analysis_input_tables": {
+    "article_reporting_scores_R1_working.csv": {
+      "records": 65,
+      "fields": 20
+    },
+    "entity_master_R1_coverage_working.csv": {
+      "records": 129,
+      "fields": 32
+    },
+    "article_entity_links_R1_working.csv": {
+      "records": 139,
+      "fields": 4
+    }
+  },
+  "all_retained_input_cells_unchanged": true,
+  "original_statistical_functions_byte_identical": true,
+  "original_classifier_byte_identical": true,
+  "five_pngs_identical_to_checked_figures": true,
+  "figure_sha256": {
+    "Fig1_R1.png": "025a770aae6641d6d36c7cee603951f6c4367af11144996e6d350a6751d4c9e1",
+    "Fig2_R1.png": "c563d063ecefd4ed65e3e8c8b146d1e9b7936896a57a5c595db818461f9b555d",
+    "Fig3_R1.png": "f6ec3564b5a6db2858586ec6c704cdbaebc032463ea8344d9169dea859fb0722",
+    "Fig4_R1.png": "bff1818f2ffb419541ecf24ad77c238fc9f03ca0d0f22979e547991276f989d1",
+    "Fig5_R1.png": "1b4ae6b6bf6b58decccda37e9c474391723634e3f6563270f91e6e2ed0656a09"
+  },
+  "source_abstracts_and_affiliation_text_distributed": false,
+  "prioritization_scope": "Dictionary-presence replay; raw source-text matching is not independently rerun in the distributed default mode.",
+  "publication_requires_verified_remote_record": true
+}

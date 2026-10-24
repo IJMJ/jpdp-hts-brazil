@@ -1,0 +1,50 @@
+{
+  "snapshot": "2026-10-24",
+  "corpus_status": "R1 reproducibility snapshot, 24 October 2026; author review before resubmission remains necessary.",
+  "original_analysis_source": "07_scripts/55_test_reporting_depth_temporal_v2_9.py",
+  "original_source_sha256": "0ff56ce3c040a68efdb84224aa69bba7ed8b6163c01e4cfacc5cd4e008ffeee0",
+  "statistical_functions_copied_unchanged": [
+    "normal_two_sided_p",
+    "bh_adjust",
+    "ffh_exact_3x2",
+    "cochran_armitage",
+    "rank_statistic",
+    "permutation_rank_test"
+  ],
+  "constants_copied_unchanged": [
+    "DIMS",
+    "PERIODS",
+    "PERIOD_SCORES",
+    "SCORE_COLS",
+    "N_PERMUTATIONS",
+    "RANDOM_SEED"
+  ],
+  "revision_driver": "13_revision_R1/work/recalculate_verified_coverage.py",
+  "revision_driver_sha256": "f7414b63e9f1f28371bd7230a98711392ff363e41f4770aafa58262b9759e3ff",
+  "scope": "Reproduce working temporal tests and entity-level counts, cohort metrics and Wilson intervals. Does not re-run extraction or validate literature coverage.",
+  "input_sha256": {
+    "article_entity_links_R1_working.csv": "624893b13120f9f92f5ff18721ba94e4e14613d289edec870a03671a6e56c298",
+    "article_reporting_scores_R1_working.csv": "1953f16bd8a61d51a633b1833a9da504d7413792bf1579405bd19aa0e95911a4",
+    "entity_master_R1_coverage_working.csv": "81955b0aab904fd8a8b9598e3deefab0927b2523d47c385ed7ecf58b12d9adf8"
+  },
+  "expected_results_sha256": "c4434cfaed330448bf0dc9a3f7f1aa27e6af20835e899d3dbf8b05c6964d8d80",
+  "period_label_override": {
+    "original": [
+      "2017-2019",
+      "2020-2022",
+      "2023-2026"
+    ],
+    "working": [
+      "2016-2019",
+      "2020-2022",
+      "2023-2026"
+    ],
+    "reason": "Retain earlier eligible 2016 article; original statistical functions, scores and seeds unchanged."
+  },
+  "release_input_sha256": {
+    "article_entity_links_R1_working.csv": "624893b13120f9f92f5ff18721ba94e4e14613d289edec870a03671a6e56c298",
+    "article_reporting_scores_R1_working.csv": "1953f16bd8a61d51a633b1833a9da504d7413792bf1579405bd19aa0e95911a4",
+    "entity_master_R1_coverage_working.csv": "70b2bcf4dde095f00bb72ea2d890ad0aeed67502e795d3b529cf873a02cc3ea7"
+  },
+  "release_transformation": "Entity input reduced to the fields needed for calculation, source identification and interpretation; no retained cell values changed."
+}

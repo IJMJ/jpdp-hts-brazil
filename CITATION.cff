@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite the specific archived version of this reproducibility package."
+title: "HTS plant-virus literature review in Brazil: R1 data and code"
+type: dataset
+authors:
+  - family-names: "de Morais"
+    given-names: "Ivair José"
+version: "r1-2026-10-24"
+date-released: "2026-10-24"
+repository-code: "https://github.com/IJMJ/jpdp-hts-brazil"
+url: "https://github.com/IJMJ/jpdp-hts-brazil"
+license:
+  - MIT
+  - CC-BY-4.0
+abstract: "Reproducibility inputs and code for the R1 revision of manuscript JPDP-D-26-01558: 65 articles, 129 entities, 139 links, temporal analyses, five figures and historical bibliographic-prioritization feature replay."

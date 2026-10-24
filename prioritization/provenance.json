@@ -1,0 +1,8 @@
+{
+  "records": 8968,
+  "source": "Historical Europe PMC export",
+  "historical_input_sha256": "79fdba2f589c59aa60545233a79744e65d04a468b907e67cbef13d7a81fdb6fa",
+  "historical_classifier_sha256": "63af9f623c7e51d43538c4c3536a2986b02824638c59faa0d0e39c92c38a2ee1",
+  "feature_generation": "For each source field, save only normalized dictionary terms satisfying the original alphanumeric-boundary matcher. Publication context is normalized title + publication types; affiliation context is normalized affiliations + institution country codes. The original input has no institution_country_codes column. Retain normalized-abstract nonempty flag. No text reconstruction or new literature retrieval.",
+  "verification_scope": "Feature replay reproduces original scores, ordered branches and 25 stored output fields. It does not independently re-extract matches from the omitted third-party abstracts. The unchanged classifier can process a lawfully obtained original-format CSV with --input."
+}

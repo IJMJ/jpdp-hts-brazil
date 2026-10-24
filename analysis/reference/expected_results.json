@@ -1,0 +1,533 @@
+{
+  "status": "Working corpus after authorized historical Pending reconciliation; qualified coding and remaining coverage unresolved, not final results",
+  "entities": 129,
+  "articles": 65,
+  "temporal": {
+    "periods": [
+      "2016-2019",
+      "2020-2022",
+      "2023-2026"
+    ],
+    "totals": [
+      22,
+      21,
+      22
+    ],
+    "dimensions": [
+      {
+        "dimension": "total_read_count",
+        "reported_by_period": [
+          9,
+          10,
+          18
+        ],
+        "total_by_period": [
+          22,
+          21,
+          22
+        ],
+        "exact_p": 0.012901623632484234,
+        "trend_p": 0.006144026077874232,
+        "trend_z": 2.7399942417947605,
+        "exact_q": 0.07740974179490541,
+        "trend_q": 0.03686415646724539
+      },
+      {
+        "dimension": "virus_supporting_read_count",
+        "reported_by_period": [
+          12,
+          8,
+          7
+        ],
+        "total_by_period": [
+          22,
+          21,
+          22
+        ],
+        "exact_p": 0.30848264766644345,
+        "trend_p": 0.1261110001250314,
+        "trend_z": -1.529619256546619,
+        "exact_q": 0.46272397149966515,
+        "trend_q": 0.3783330003750942
+      },
+      {
+        "dimension": "coverage_depth",
+        "reported_by_period": [
+          4,
+          8,
+          3
+        ],
+        "total_by_period": [
+          22,
+          21,
+          22
+        ],
+        "exact_p": 0.17392591998151904,
+        "trend_p": 0.7204830938478604,
+        "trend_z": -0.3578132236660678,
+        "exact_q": 0.3478518399630381,
+        "trend_q": 1.0
+      },
+      {
+        "dimension": "preprocessing_parameters",
+        "reported_by_period": [
+          3,
+          6,
+          3
+        ],
+        "total_by_period": [
+          22,
+          21,
+          22
+        ],
+        "exact_p": 0.44688679183192165,
+        "trend_p": 1.0,
+        "trend_z": 0.0,
+        "exact_q": 0.536264150198306,
+        "trend_q": 1.0
+      },
+      {
+        "dimension": "assembly_parameters",
+        "reported_by_period": [
+          6,
+          4,
+          4
+        ],
+        "total_by_period": [
+          22,
+          21,
+          22
+        ],
+        "exact_p": 0.8034143547207082,
+        "trend_p": 0.4632866950644212,
+        "trend_z": -0.7334456010551537,
+        "exact_q": 0.8034143547207083,
+        "trend_q": 0.9265733901288424
+      },
+      {
+        "dimension": "mapping_identification_parameters",
+        "reported_by_period": [
+          3,
+          8,
+          3
+        ],
+        "total_by_period": [
+          22,
+          21,
+          22
+        ],
+        "exact_p": 0.0974393104590628,
+        "trend_p": 1.0,
+        "trend_z": 0.0,
+        "exact_q": 0.2923179313771884,
+        "trend_q": 1.0
+      }
+    ],
+    "scores": [
+      {
+        "score": "sequencing_evidence_score",
+        "statistic": 0.22964913874004714,
+        "p": 0.8881111188888111,
+        "permutations": 100000,
+        "seed": 20260807,
+        "q": 0.9241607583924161
+      },
+      {
+        "score": "bioinformatics_reproducibility_score",
+        "statistic": 1.0731011412829592,
+        "p": 0.4705652943470565,
+        "permutations": 100000,
+        "seed": 20260808,
+        "q": 0.9241607583924161
+      },
+      {
+        "score": "overall_reporting_score",
+        "statistic": 0.15633154724063836,
+        "p": 0.9241607583924161,
+        "permutations": 100000,
+        "seed": 20260809,
+        "q": 0.9241607583924161
+      }
+    ]
+  },
+  "entity_metrics": [
+    {
+      "cohort": "All",
+      "metric": "molecular_validation_or_higher",
+      "numerator": 106,
+      "denominator": 129,
+      "percent": 82.17054263565892,
+      "wilson95": [
+        0.7466518910388215,
+        0.8781530511594663
+      ]
+    },
+    {
+      "cohort": "All",
+      "metric": "replicated_association_or_higher",
+      "numerator": 69,
+      "denominator": 129,
+      "percent": 53.48837209302326,
+      "wilson95": [
+        0.4490502446726789,
+        0.6186996888187015
+      ]
+    },
+    {
+      "cohort": "All",
+      "metric": "experimental_infection_or_higher",
+      "numerator": 17,
+      "denominator": 129,
+      "percent": 13.178294573643411,
+      "wilson95": [
+        0.0839328443322929,
+        0.2009289688142454
+      ]
+    },
+    {
+      "cohort": "All",
+      "metric": "experimental_disease_reproduction",
+      "numerator": 7,
+      "denominator": 129,
+      "percent": 5.426356589147287,
+      "wilson95": [
+        0.026530955330892246,
+        0.10777545005702246
+      ]
+    },
+    {
+      "cohort": "All",
+      "metric": "reconstructed_agent_direct",
+      "numerator": 3,
+      "denominator": 129,
+      "percent": 2.3255813953488373,
+      "wilson95": [
+        0.007940137432579455,
+        0.06614410485188585
+      ]
+    },
+    {
+      "cohort": "All",
+      "metric": "has_public_raw_reads",
+      "numerator": 34,
+      "denominator": 129,
+      "percent": 26.356589147286822,
+      "wilson95": [
+        0.19517252611929742,
+        0.3456334802169008
+      ]
+    },
+    {
+      "cohort": "All",
+      "metric": "complete_or_coding_complete_genome",
+      "numerator": 68,
+      "denominator": 129,
+      "percent": 52.713178294573645,
+      "wilson95": [
+        0.4414429365569314,
+        0.611251456158587
+      ]
+    },
+    {
+      "cohort": "All",
+      "metric": "hts_platform_explicit",
+      "numerator": 86,
+      "denominator": 129,
+      "percent": 66.66666666666667,
+      "wilson95": [
+        0.5815391163837179,
+        0.7421550102973226
+      ]
+    },
+    {
+      "cohort": "All",
+      "metric": "state_level_mappable",
+      "numerator": 72,
+      "denominator": 129,
+      "percent": 55.81395348837209,
+      "wilson95": [
+        0.471992402458324,
+        0.6409241533606435
+      ]
+    },
+    {
+      "cohort": "All",
+      "metric": "accepted_species",
+      "numerator": 71,
+      "denominator": 129,
+      "percent": 55.03875968992248,
+      "wilson95": [
+        0.46432489974957447,
+        0.6335361152935307
+      ]
+    },
+    {
+      "cohort": "Main",
+      "metric": "molecular_validation_or_higher",
+      "numerator": 64,
+      "denominator": 77,
+      "percent": 83.11688311688312,
+      "wilson95": [
+        0.7322711067008882,
+        0.8985933129172399
+      ]
+    },
+    {
+      "cohort": "Main",
+      "metric": "replicated_association_or_higher",
+      "numerator": 38,
+      "denominator": 77,
+      "percent": 49.35064935064935,
+      "wilson95": [
+        0.38483020307212373,
+        0.6027999063471285
+      ]
+    },
+    {
+      "cohort": "Main",
+      "metric": "experimental_infection_or_higher",
+      "numerator": 7,
+      "denominator": 77,
+      "percent": 9.090909090909092,
+      "wilson95": [
+        0.044735710601777307,
+        0.1759611828111233
+      ]
+    },
+    {
+      "cohort": "Main",
+      "metric": "experimental_disease_reproduction",
+      "numerator": 2,
+      "denominator": 77,
+      "percent": 2.5974025974025974,
+      "wilson95": [
+        0.007152159807893181,
+        0.08984582779753134
+      ]
+    },
+    {
+      "cohort": "Main",
+      "metric": "reconstructed_agent_direct",
+      "numerator": 2,
+      "denominator": 77,
+      "percent": 2.5974025974025974,
+      "wilson95": [
+        0.007152159807893181,
+        0.08984582779753134
+      ]
+    },
+    {
+      "cohort": "Main",
+      "metric": "has_public_raw_reads",
+      "numerator": 31,
+      "denominator": 77,
+      "percent": 40.25974025974026,
+      "wilson95": [
+        0.3002201729682805,
+        0.5142314683205054
+      ]
+    },
+    {
+      "cohort": "Main",
+      "metric": "complete_or_coding_complete_genome",
+      "numerator": 41,
+      "denominator": 77,
+      "percent": 53.246753246753244,
+      "wilson95": [
+        0.42215020982869184,
+        0.639699243075046
+      ]
+    },
+    {
+      "cohort": "Main",
+      "metric": "hts_platform_explicit",
+      "numerator": 51,
+      "denominator": 77,
+      "percent": 66.23376623376623,
+      "wilson95": [
+        0.551246483089225,
+        0.7580007814294651
+      ]
+    },
+    {
+      "cohort": "Main",
+      "metric": "state_level_mappable",
+      "numerator": 49,
+      "denominator": 77,
+      "percent": 63.63636363636363,
+      "wilson95": [
+        0.5248220271273843,
+        0.7349456750683153
+      ]
+    },
+    {
+      "cohort": "Main",
+      "metric": "accepted_species",
+      "numerator": 22,
+      "denominator": 77,
+      "percent": 28.571428571428573,
+      "wilson95": [
+        0.1968951815913284,
+        0.3948984292440005
+      ]
+    },
+    {
+      "cohort": "Secondary",
+      "metric": "molecular_validation_or_higher",
+      "numerator": 42,
+      "denominator": 52,
+      "percent": 80.76923076923077,
+      "wilson95": [
+        0.6810113918634199,
+        0.8920395397526649
+      ]
+    },
+    {
+      "cohort": "Secondary",
+      "metric": "replicated_association_or_higher",
+      "numerator": 31,
+      "denominator": 52,
+      "percent": 59.61538461538461,
+      "wilson95": [
+        0.4606757548486152,
+        0.7184026612814113
+      ]
+    },
+    {
+      "cohort": "Secondary",
+      "metric": "experimental_infection_or_higher",
+      "numerator": 10,
+      "denominator": 52,
+      "percent": 19.23076923076923,
+      "wilson95": [
+        0.10796046024733509,
+        0.3189886081365802
+      ]
+    },
+    {
+      "cohort": "Secondary",
+      "metric": "experimental_disease_reproduction",
+      "numerator": 5,
+      "denominator": 52,
+      "percent": 9.615384615384615,
+      "wilson95": [
+        0.04177435105257249,
+        0.20609630120131633
+      ]
+    },
+    {
+      "cohort": "Secondary",
+      "metric": "reconstructed_agent_direct",
+      "numerator": 1,
+      "denominator": 52,
+      "percent": 1.9230769230769231,
+      "wilson95": [
+        0.0034028080709451597,
+        0.10120511127892247
+      ]
+    },
+    {
+      "cohort": "Secondary",
+      "metric": "has_public_raw_reads",
+      "numerator": 3,
+      "denominator": 52,
+      "percent": 5.769230769230769,
+      "wilson95": [
+        0.019814172112270614,
+        0.1564251136896076
+      ]
+    },
+    {
+      "cohort": "Secondary",
+      "metric": "complete_or_coding_complete_genome",
+      "numerator": 27,
+      "denominator": 52,
+      "percent": 51.92307692307692,
+      "wilson95": [
+        0.38685682768056057,
+        0.6489588555454449
+      ]
+    },
+    {
+      "cohort": "Secondary",
+      "metric": "hts_platform_explicit",
+      "numerator": 35,
+      "denominator": 52,
+      "percent": 67.3076923076923,
+      "wilson95": [
+        0.5375618936197395,
+        0.7847792554143083
+      ]
+    },
+    {
+      "cohort": "Secondary",
+      "metric": "state_level_mappable",
+      "numerator": 23,
+      "denominator": 52,
+      "percent": 44.23076923076923,
+      "wilson95": [
+        0.3159505681940129,
+        0.5766023821279712
+      ]
+    },
+    {
+      "cohort": "Secondary",
+      "metric": "accepted_species",
+      "numerator": 49,
+      "denominator": 52,
+      "percent": 94.23076923076923,
+      "wilson95": [
+        0.8435748863103923,
+        0.9801858278877295
+      ]
+    }
+  ],
+  "strongest_evidence_counts": {
+    "B0": 23,
+    "B1": 37,
+    "B2": 52,
+    "B3": 9,
+    "B4": 5,
+    "B5": 3
+  },
+  "contribution_counts": {
+    "Novel or tentative viral taxon": 77,
+    "Known-virus genome/isolate characterization": 20,
+    "Host record / biological characterization": 13,
+    "Geographic record / regional genome characterization": 7,
+    "Geographic + host record": 6,
+    "Lineage / recombination characterization": 3,
+    "Taxonomic reassessment + host record": 2,
+    "Novel subviral agent": 1
+  },
+  "family_counts": {
+    "Geminiviridae": 41,
+    "Unresolved formal family": 18,
+    "Rhabdoviridae": 11,
+    "Betaflexiviridae": 7,
+    "Genomoviridae": 7,
+    "Solemoviridae": 6,
+    "Closteroviridae": 6,
+    "Virgaviridae": 5,
+    "Potyviridae": 4,
+    "Phenuiviridae": 4,
+    "Alphaflexiviridae": 3,
+    "Caulimoviridae": 3,
+    "Bromoviridae": 2,
+    "Tospoviridae": 2,
+    "Alphasatellitidae": 2,
+    "Botourmiaviridae": 2,
+    "Tymoviridae": 1,
+    "Partitiviridae": 1,
+    "Secoviridae": 1,
+    "Kitaviridae": 1,
+    "Mitoviridae": 1,
+    "Dicistroviridae": 1
+  },
+  "genome_completeness_counts": {
+    "Complete/coding-complete": 68,
+    "Partial/contig": 55,
+    "Near-complete": 6
+  },
+  "all_temporal_fdr_nonsignificant": false
+}
