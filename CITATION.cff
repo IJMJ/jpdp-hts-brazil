@@ -1,11 +1,11 @@
 cff-version: 1.2.0
 message: "Please cite the specific archived version of this reproducibility package."
 title: "HTS plant-virus literature review in Brazil: R1 data and code"
-type: dataset
+type: software
 authors:
   - family-names: "de Morais"
     given-names: "Ivair José"
-version: "r1-2026-10-24"
+version: "r1-2026-10-24.1"
 date-released: "2026-10-24"
 repository-code: "https://github.com/IJMJ/jpdp-hts-brazil"
 url: "https://github.com/IJMJ/jpdp-hts-brazil"

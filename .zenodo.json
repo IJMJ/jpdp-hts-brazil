@@ -1,0 +1,27 @@
+{
+  "title": "HTS plant-virus literature review in Brazil: R1 data and code",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "de Morais, Ivair Jos\u00e9"
+    }
+  ],
+  "version": "r1-2026-10-24.1",
+  "publication_date": "2026-10-24",
+  "access_right": "open",
+  "license": "mit",
+  "description": "<p>Reproducibility package for the R1 revision of manuscript JPDP-D-26-01558, submitted to the Journal of Plant Diseases and Protection. Snapshot of 65 articles, 129 entities and 139 article-entity links; temporal analyses, five figures and dictionary-presence replay for 8,968 historical bibliographic records across 25 stored classification fields.</p><p><strong>Licensing by content:</strong> Python source code is licensed under MIT. Original curated data, derived dictionary-presence features and documentation are licensed under CC BY 4.0. The software license metadata refers to code. See LICENSE.md for the scope of each license. Third-party articles, abstracts and affiliation texts are omitted.</p><p>Feature replay checks scoring and classification, without independently repeating matching against the omitted original abstracts. This version does not certify exhaustive literature coverage or independent author review of every proposed eligibility decision. Source qualifications and instructions accompany the data.</p><p>This release corrects archive metadata only. Analytical data, code and numerical results are unchanged from the preceding GitHub snapshot.</p>",
+  "keywords": [
+    "literature review",
+    "Brazil",
+    "plant virology",
+    "reproducibility",
+    "bibliographic screening"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/IJMJ/jpdp-hts-brazil",
+      "relation": "isSupplementTo"
+    }
+  ]
+}
